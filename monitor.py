@@ -31,9 +31,13 @@ KEYWORDS = [
 
 # =========================================================
 # 인증키: GitHub Actions의 Secrets에서 자동으로 불러옵니다.
+# - ASSEMBLY_API_KEY : 열린국회정보(open.assembly.go.kr)에서 발급받은 키
+# - DATA_GO_KR_KEY    : 공공데이터포털(data.go.kr)에서 발급받은 키 (정부 입법예고용)
 # (내 컴퓨터에서 테스트할 때는 터미널에서 아래처럼 먼저 설정)
+#   export ASSEMBLY_API_KEY="발급받은키"
 #   export DATA_GO_KR_KEY="발급받은키"
 # =========================================================
+ASSEMBLY_API_KEY = os.environ.get("ASSEMBLY_API_KEY", "")
 DATA_GO_KR_KEY = os.environ.get("DATA_GO_KR_KEY", "")
 
 BASE_DIR = Path(__file__).parent
@@ -74,67 +78,66 @@ def now_kst_str():
 
 
 # ---------------------------------------------------------
-# ① 국회 의안정보 (공공데이터포털 - 국회사무처_의안정보 API)
-#    https://www.data.go.kr/data/3037286/openapi.do
+# ① 국회 의안정보 (열린국회정보 - 의안 접수목록 API: BILLRCP)
+#    https://open.assembly.go.kr/portal/openapi/BILLRCP
 # ---------------------------------------------------------
 def fetch_assembly_bills():
-    """
-    주의: data.go.kr은 API마다 정확한 응답 필드명이 조금씩 다릅니다.
-    최초 1회는 아래 print(json.dumps(...)) 결과를 직접 눈으로 확인해서
-    FIELD 이름이 실제와 다르면 아래 FIELD_TITLE 등을 맞게 고쳐주세요.
-    (README '문제 해결' 섹션 참고)
-    """
-    if not DATA_GO_KR_KEY:
+    if not ASSEMBLY_API_KEY:
         print("[국회 API] 인증키가 없어 건너뜁니다.")
         return []
 
-    url = "https://apis.data.go.kr/9710000/BillInfoService2/getBillInfoList"
-    params = {
-        "serviceKey": DATA_GO_KR_KEY,
-        "numOfRows": 100,
-        "pageNo": 1,
-        "type": "json",
-    }
+    url = "https://open.assembly.go.kr/portal/openapi/BILLRCP"
+    all_items = []
+    page = 1
+    # 데이터가 총 13만 건이 넘기 때문에, 최근 것부터 몇 페이지만 가져옵니다.
+    # (이 API는 최신순 정렬을 보장하지 않을 수 있어, 넉넉히 여러 페이지를 훑고
+    #  마지막에 제안일(PPSL_DT) 기준으로 최근 것만 걸러냅니다.)
+    max_pages = 20  # 필요하면 늘리세요 (페이지당 100건 = 총 2,000건 확인)
 
-    try:
-        res = requests.get(url, params=params, timeout=20)
-        res.raise_for_status()
-        data = res.json()
-    except Exception as e:
-        print(f"[국회 API 오류] {e}")
-        return []
+    while page <= max_pages:
+        params = {
+            "KEY": ASSEMBLY_API_KEY,
+            "Type": "json",
+            "pIndex": page,
+            "pSize": 100,
+        }
+        try:
+            res = requests.get(url, params=params, timeout=20)
+            res.raise_for_status()
+            data = res.json()
+        except Exception as e:
+            print(f"[국회 API 오류] {e}")
+            break
 
-    # 응답 구조가 예상과 다를 경우 아래 줄의 주석을 풀어서 실제 구조를 확인하세요.
-    # print(json.dumps(data, ensure_ascii=False, indent=2)[:2000])
+        # 정상 응답 구조: {"BILLRCP": [ {head 정보}, {"row": [ {...}, ... ]} ]}
+        try:
+            rows = data["BILLRCP"][1]["row"]
+        except (KeyError, IndexError, TypeError):
+            # 결과가 없거나(마지막 페이지) 인증키 오류 등인 경우
+            # print(json.dumps(data, ensure_ascii=False, indent=2)[:1000])
+            break
 
-    try:
-        items = data["response"]["body"]["items"]
-        items = items.get("item", []) if isinstance(items, dict) else items
-        if isinstance(items, dict):
-            items = [items]
-    except (KeyError, TypeError):
-        print("[국회 API] 예상과 다른 응답 구조입니다. 위 print 주석을 풀어 확인해보세요.")
-        return []
+        if not rows:
+            break
+        all_items.extend(rows)
+        page += 1
 
     results = []
-    for item in items:
-        # ## 여기를 수정하세요 2): 실제 필드명이 다르면 아래 get() 안의 이름을 교체
-        title = item.get("billName") or item.get("billNm") or ""
-        summary = item.get("summary", "")
-        matched_kw = contains_keyword(title, summary)
+    for item in all_items:
+        title = item.get("BILL_NM", "")
+        matched_kw = contains_keyword(title)
         if not matched_kw:
             continue
 
-        bill_id = item.get("billId") or item.get("billNo") or title
+        bill_id = item.get("BILL_ID") or item.get("BILL_NO") or title
         results.append({
             "source": "국회 발의 법률안",
             "id": f"assembly-{bill_id}",
             "title": title,
-            "org": item.get("proposer") or item.get("rstProposer") or "국회",
-            "date": item.get("proposeDt") or item.get("billProposeDt") or "",
+            "org": item.get("PPSR_KIND", ""),
+            "date": item.get("PPSL_DT", ""),
             "matched_keyword": matched_kw,
-            "link": item.get("detailLink") or item.get("billDetailUrl")
-                    or f"https://likms.assembly.go.kr/bill/billDetail.do?billId={bill_id}",
+            "link": item.get("LINK_URL") or f"https://likms.assembly.go.kr/bill/billDetail.do?billId={bill_id}",
         })
     return results
 
