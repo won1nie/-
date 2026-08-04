@@ -3,7 +3,7 @@ name: 입법 모니터링 자동 실행
 on:
   schedule:
     # 매 6시간마다 실행 (UTC 기준 0,6,12,18시 = 한국시간 9,15,21,3시)
-    - cron: "0 0,6,12,18 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch: {}   # GitHub 화면에서 수동으로도 "Run workflow" 버튼으로 실행 가능
 
 permissions:
