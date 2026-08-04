@@ -1,0 +1,36 @@
+name: 입법 모니터링 자동 실행
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 필요한 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: 모니터링 스크립트 실행
+        env:
+          ASSEMBLY_API_KEY: ${{ secrets.ASSEMBLY_API_KEY }}
+          DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
+        run: python monitor.py
+
+      - name: 결과 저장소에 자동 커밋
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "자동 업데이트: 입법 모니터링 결과 갱신"
+          file_pattern: "docs/* seen_ids.json matched_items.json"
