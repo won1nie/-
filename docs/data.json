@@ -511,5 +511,41 @@
     "date": "2019-09-10",
     "matched_keyword": "영유아보육법",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1N9M0E9T1H0W1G0P1K8M4Q2X0T6G9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X2A2K0I9O0C2X0I9J2A9T2C0G4J6R4",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-02-22",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2A2K0I9O0C2X0I9J2A9T2C0G4J6R4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X2C2P0Q8W0K1W1X3B4R2V5X8A2R9U9",
+    "title": "사회복지사업법 일부개정법률안",
+    "org": "의원",
+    "date": "2022-12-07",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2C2P0Q8W0K1W1X3B4R2V5X8A2R9U9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X2C6B0Z6A2W3V1T4S1T5B5Z7Y8Z1X1",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2026-06-29",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2C6B0Z6A2W3V1T4S1T5B5Z7Y8Z1X1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X2D3D0B4A0J5M0C9Z1Y6H4G1C1L6K7",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-04-07",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2D3D0B4A0J5M0C9Z1Y6H4G1C1L6K7"
   }
 ]
