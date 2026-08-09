@@ -556,5 +556,50 @@
     "date": "1957-04-04",
     "matched_keyword": "급식",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=002018"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2X3G0F4G2F7D1M6K1L8J5I8E5D9D6",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-06-13",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X3G0F4G2F7D1M6K1L8J5I8E5D9D6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2X3Y0W8E2F5D1E4C5C3B5J0J2I3I9",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-08-28",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X3Y0W8E2F5D1E4C5C3B5J0J2I3I9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2X4G1F0D2C8D1L3K3I0H1D2C7B8B6",
+    "title": "보건의료인력지원법  일부개정법률안",
+    "org": "의원",
+    "date": "2024-11-12",
+    "matched_keyword": "보건의료인",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2X4G1F0D2C8D1L3K3I0H1D2C7B8B6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2W3F0E6D2F1E1D0K3I0H4H8D1A2L3",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-06-23",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2W3F0E6D2F1E1D0K3I0H4H8D1A2L3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2W5Q0P8Y0U8U1C4B0A1Z1W7C0C3B2",
+    "title": "아이돌봄 지원법 일부개정법률안",
+    "org": "의원",
+    "date": "2025-08-12",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2W5Q0P8Y0U8U1C4B0A1Z1W7C0C3B2"
   }
 ]
