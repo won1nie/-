@@ -601,5 +601,68 @@
     "date": "2025-08-12",
     "matched_keyword": "돌봄",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2W5Q0P8Y0U8U1C4B0A1Z1W7C0C3B2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2W3S0S3Q2P8Q0Y9X4V6U4U8D0B4E1",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-03-31",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W3S0S3Q2P8Q0Y9X4V6U4U8D0B4E1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2W4X0V8W0V1C1D6B4C1A1Z7Z0H1H1",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2024-08-20",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4X0V8W0V1C1D6B4C1A1Z7Z0H1H1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2W4X1F2F1E6C1D6B5B6K3K3I1J0I0",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2026-02-04",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4X1F2F1E6C1D6B5B6K3K3I1J0I0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2W4V0T3C2A8B1A4Y1U1V2U3S4R8Z4",
+    "title": "가족돌봄아동·청소년·청년 지원에 관한 법률안",
+    "org": "의원",
+    "date": "2024-05-01",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W4V0T3C2A8B1A4Y1U1V2U3S4R8Z4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2Z0I0M9X1D4N1H0Z5L4J4I2X3U8A3",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2020-09-29",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z0I0M9X1D4N1H0Z5L4J4I2X3U8A3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2Z3C0L1D1G3J1M0A4C8S0V0T8B5N2",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-02-02",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Z3C0L1D1G3J1M0A4C8S0V0T8B5N2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2Y5X0S8R2S5R1Z3X2W3W3V9D0C7A6",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2025-08-28",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2Y5X0S8R2S5R1Z3X2W3W3V9D0C7A6"
   }
 ]
