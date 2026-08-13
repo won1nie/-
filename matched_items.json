@@ -943,5 +943,59 @@
     "date": "2010-12-31",
     "matched_keyword": "식품위생",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1F0J1A2X3X1K1Q6N5E5N5N2C8R7C2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X2W5U0U4D2D1B1C3A4Z2Z3H7H9G4H4",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2025-07-02",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2W5U0U4D2D1B1C3A4Z2Z3H7H9G4H4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2L3K0T2S1P7X1W4T1Q0O5Y2X6W0D2",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2023-03-23",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2L3K0T2S1P7X1W4T1Q0O5Y2X6W0D2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2N0Y0F2O2E4M0A9G4O9S1F1R4L8S1",
+    "title": "아이돌봄 지원법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2020-04-29",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2N0Y0F2O2E4M0A9G4O9S1F1R4L8S1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2R2E0R2O0W9U1G4C3H1R3E6N5K9Y4",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2022-02-16",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2R2E0R2O0W9U1G4C3H1R3E6N5K9Y4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2J0O0B9X0D7P1Y4K0H9M3R2K5E5N7",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2020-09-07",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2J0O0B9X0D7P1Y4K0H9M3R2K5E5N7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2H0B1U1A0C4P1P6T0K2G3G3C7X3H7",
+    "title": "지역사회통합돌봄법안",
+    "org": "의원",
+    "date": "2020-11-04",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2H0B1U1A0C4P1P6T0K2G3G3C7X3H7"
   }
 ]
