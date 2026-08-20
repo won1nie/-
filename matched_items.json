@@ -1645,5 +1645,14 @@
     "date": "2018-11-26",
     "matched_keyword": "요양",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1N8M1R1H2Q6Z1S7U4R8A4Q6X5A5L9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W2A1W0U6R1C4A1F9O2F2Q1J4S8N5W6",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2021-07-02",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2A1W0U6R1C4A1F9O2F2Q1J4S8N5W6"
   }
 ]
