@@ -1654,5 +1654,68 @@
     "date": "2021-07-02",
     "matched_keyword": "영유아보육법",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2A1W0U6R1C4A1F9O2F2Q1J4S8N5W6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1H5S0F6B0N4R1U6P4D6T2T3X7B5Z3",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-06-04",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1H5S0F6B0N4R1U6P4D6T2T3X7B5Z3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1H7E1X1E1V3K1R4D1S4B3M3A2T5L0",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2017-11-13",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1H7E1X1E1V3K1R4D1S4B3M3A2T5L0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1H8C0R7N0A3B1H4D5Q7M5I3F9H5F7",
+    "title": "어린이 식생활안전관리 특별법 일부개정법률안",
+    "org": "의원",
+    "date": "2018-07-03",
+    "matched_keyword": "식생활",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1H8C0R7N0A3B1H4D5Q7M5I3F9H5F7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1F9C0Q4X1Y6F1J4V2R1U3I2C8R7I2",
+    "title": "학교급식법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-04-16",
+    "matched_keyword": "급식",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1F9C0Q4X1Y6F1J4V2R1U3I2C8R7I2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1F9W0G9R0F5Z1F0D5I9G3A8P1D5O1",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-09-05",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1F9W0G9R0F5Z1F0D5I9G3A8P1D5O1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1G1H1X2G2R7W0C8Q4G8F2H5A1X2L4",
+    "title": "영유아보육법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2011-12-29",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1G1H1X2G2R7W0C8Q4G8F2H5A1X2L4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1G1T0W9B0C1F1M1A2O5F3E7A7C6U8",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-09-01",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1G1T0W9B0C1F1M1A2O5F3E7A7C6U8"
   }
 ]
