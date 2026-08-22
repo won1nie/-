@@ -1717,5 +1717,59 @@
     "date": "2011-09-01",
     "matched_keyword": "영유아보육법",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1G1T0W9B0C1F1M1A2O5F3E7A7C6U8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1T8I0Q2A2R2X1G1G2N5C5Z2K0J3G5",
+    "title": "노인장기요양보험법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2018-02-28",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1T8I0Q2A2R2X1G1G2N5C5Z2K0J3G5"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1T9M1T2W0V6Z1F6Z3F3V2E3R5L0J7",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-12-06",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1T9M1T2W0V6Z1F6Z3F3V2E3R5L0J7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1V4B0Z6V2Z7D1W6C5J9I3T2B5C7C4",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2014-06-27",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1V4B0Z6V2Z7D1W6C5J9I3T2B5C7C4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1U1B0B5K0D2E1V6I1B3K0N3Y0M1M9",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-05-02",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1U1B0B5K0D2E1V6I1B3K0N3Y0M1M9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1U3G0I2Z0D7A1I6O2V5Y2F4A9C8Q1",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-02-07",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1U3G0I2Z0D7A1I6O2V5Y2F4A9C8Q1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1U5X0K6E0J2L1M8E0G7T5Q6T2Q4Z7",
+    "title": "아이돌봄 지원법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-06-02",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1U5X0K6E0J2L1M8E0G7T5Q6T2Q4Z7"
   }
 ]
