@@ -1771,5 +1771,32 @@
     "date": "2015-06-02",
     "matched_keyword": "돌봄",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1U5X0K6E0J2L1M8E0G7T5Q6T2Q4Z7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y0O7Y0N5N3X0M1U0I1N2L3Y3L4S2Y8",
+    "title": "사회복지사업법 일부개정법률안",
+    "org": "의원",
+    "date": "2007-05-28",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0O7Y0N5N3X0M1U0I1N2L3Y3L4S2Y8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y0Q8V1I1W2U8N2H2R1I5O5V6D4C2R3",
+    "title": "사회복지사업법 일부개정법률안",
+    "org": "의원",
+    "date": "2008-11-28",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0Q8V1I1W2U8N2H2R1I5O5V6D4C2R3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y0Q9S0A7S3T1K1G2P3B6Y3L8J1X4V4",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2009-07-31",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y0Q9S0A7S3T1K1G2P3B6Y3L8J1X4V4"
   }
 ]
