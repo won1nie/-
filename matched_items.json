@@ -1888,5 +1888,23 @@
     "date": "2019-12-30",
     "matched_keyword": "노인복지",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1R9J1A2P3V0Q1P8P3I5J0Q7S1J4C2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z1C8C1O1X0O1P1Q5B2V5S0P0D4S8M3",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2018-11-01",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z1C8C1O1X0O1P1Q5B2V5S0P0D4S8M3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2W5X0T1T2R2S1R1P3P8X4Y1W0X9V2",
+    "title": "사회복지사 등의 처우 및 지위 향상을 위한 법률 일부개정법률안",
+    "org": "의원",
+    "date": "2025-03-28",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2W5X0T1T2R2S1R1P3P8X4Y1W0X9V2"
   }
 ]
