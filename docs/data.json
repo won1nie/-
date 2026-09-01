@@ -2041,5 +2041,41 @@
     "date": "2009-11-26",
     "matched_keyword": "사회복지",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z0N9Z1C1B2H6B1P5C5I8W0J7J0D5D7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2C1Y0H6C2X3J1U4H4V1F4X3Z3G2S9",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2021-07-09",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2C1Y0H6C2X3J1U4H4V1F4X3Z3G2S9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2D2D0T5N0R9J1H3Q4H9D1I5Z8F8A7",
+    "title": "학교급식법 일부개정법률안",
+    "org": "의원",
+    "date": "2022-08-09",
+    "matched_keyword": "급식",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2D2D0T5N0R9J1H3Q4H9D1I5Z8F8A7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2F0E0Y6W1P9E1B0G5E1P2X6D5X3Y6",
+    "title": "어린이 식생활안전관리 특별법 일부개정법률안",
+    "org": "의원",
+    "date": "2020-06-19",
+    "matched_keyword": "식생활",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2F0E0Y6W1P9E1B0G5E1P2X6D5X3Y6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y2F5Z0C9J2K3Z1M8Y2A4X2R4D5O5K2",
+    "title": "사회복지사 등의 처우 및 지위 향상을 위한 법률 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2025-11-12",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y2F5Z0C9J2K3Z1M8Y2A4X2R4D5O5K2"
   }
 ]
