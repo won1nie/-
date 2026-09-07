@@ -2185,5 +2185,59 @@
     "date": "2023-10-06",
     "matched_keyword": "식품위생",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2U3V0D7D2C8A1B4Z4A9I2I1G2F2F1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1J2Z0J5X3W0H1H3X2A0M0F4T3I7I3",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2012-05-30",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1J2Z0J5X3W0H1H3X2A0M0F4T3I7I3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1J3M0P4R2M6Q1B5X0K2R2Z4W7A4W0",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-04-26",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1J3M0P4R2M6Q1B5X0K2R2Z4W7A4W0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1K8S0P6V2R6N1V5I0Q1G2O8O8X0H6",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2018-06-26",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1K8S0P6V2R6N1V5I0Q1G2O8O8X0H6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1M2O0U9F0C6H1W1Z1M3B3A8J5M8N0",
+    "title": "어린이 식생활안전관리 특별법 일부개정법률안",
+    "org": "의원",
+    "date": "2012-09-06",
+    "matched_keyword": "식생활",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1M2O0U9F0C6H1W1Z1M3B3A8J5M8N0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1L5T1W0L2N3W1N7I1X4Z2F6O9Q3R9",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-10-23",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1L5T1W0L2N3W1N7I1X4Z2F6O9Q3R9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1I6Q0X9Z2O3G1F6J3B8L3S2D5I7S7",
+    "title": "학교급식법 일부개정법률안",
+    "org": "의원",
+    "date": "2016-09-23",
+    "matched_keyword": "급식",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1I6Q0X9Z2O3G1F6J3B8L3S2D5I7S7"
   }
 ]
