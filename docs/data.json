@@ -2239,5 +2239,14 @@
     "date": "2016-09-23",
     "matched_keyword": "급식",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1I6Q0X9Z2O3G1F6J3B8L3S2D5I7S7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Z2A6I0G7H2F7G1E0E2A5Z2Z0Y7Y6W8",
+    "title": "의료·요양 등 지역 돌봄의 통합지원에 관한 법률 일부개정법률안",
+    "org": "의원",
+    "date": "2026-08-28",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2A6I0G7H2F7G1E0E2A5Z2Z0Y7Y6W8"
   }
 ]
