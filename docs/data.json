@@ -2383,5 +2383,59 @@
     "date": "2026-08-28",
     "matched_keyword": "식생활",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2A6I0I8H2H0G1G1E1N7N1L2M5K9L2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1D5G1E1Z1F0W1C7F4W1P5B8N6F0M0",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-11-10",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1D5G1E1Z1F0W1C7F4W1P5B8N6F0M0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1D7V0C7D2S1S1G1Y1A0N3D7O7N0N1",
+    "title": "사회복지세법안",
+    "org": "의원",
+    "date": "2017-07-21",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1D7V0C7D2S1S1G1Y1A0N3D7O7N0N1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1E5P0K3M1G1X1S0A0Y1O4P9O2A1F3",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-03-11",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1E5P0K3M1G1X1S0A0Y1O4P9O2A1F3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2K1S0R1Y1X4D1E1N3U6Y3H4Z5P1M7",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2021-01-15",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2K1S0R1Y1X4D1E1N3U6Y3H4Z5P1M7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2G6Z0Z9V1L5C2O0A3O0D5X6O9U2F3",
+    "title": "노인복지법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2026-09-17",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2G6Z0Z9V1L5C2O0A3O0D5X6O9U2F3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2I4I1T1G2K0Y2W0S5Q7W4I5Z6F4V1",
+    "title": "노인복지법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2024-11-27",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2I4I1T1G2K0Y2W0S5Q7W4I5Z6F4V1"
   }
 ]
