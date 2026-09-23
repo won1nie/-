@@ -2446,5 +2446,23 @@
     "date": "2024-12-31",
     "matched_keyword": "노인복지",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2E4A1B2A2U6T1S5A4Z8Y4X9F8G7E0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1L7F1G2W1M1F1O3X4W3J4M9P6W4O0",
+    "title": "아이돌봄 지원법 일부개정법률안",
+    "org": "의원",
+    "date": "2017-12-11",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1L7F1G2W1M1F1O3X4W3J4M9P6W4O0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1M2I1G1U2F7Q1B6Y0V6G4T3X9B3D4",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2012-11-27",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1M2I1G1U2F7Q1B6Y0V6G4T3X9B3D4"
   }
 ]
