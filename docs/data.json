@@ -2590,5 +2590,59 @@
     "date": "2014-04-01",
     "matched_keyword": "영유아보육법",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1S4R0P4K0J1W1C5H2M8T1O3D5T6W4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2T5S1S2A0B2Z0Z9Y5Z4X0X9T9R3S3",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2025-12-30",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T5S1S2A0B2Z0Z9Y5Z4X0X9T9R3S3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2S6B0Z6Y1X0U1S0R1Y3X0V8U1D2C5",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2026-07-03",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2S6B0Z6Y1X0U1S0R1Y3X0V8U1D2C5"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2T3U0S5T1R7S1A7Y5Y2X2Y9W9W5S0",
+    "title": "지역사회 통합돌봄에 관한 법률안",
+    "org": "의원",
+    "date": "2023-05-26",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T3U0S5T1R7S1A7Y5Y2X2Y9W9W5S0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2T4U1B1A1B4Z1Z1Y0Z2G1H0F5E3E2",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2024-11-14",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T4U1B1A1B4Z1Z1Y0Z2G1H0F5E3E2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2T5U1C2A0B9Z1Z3Y5Y5U0V8T3T1S7",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2025-12-11",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T5U1C2A0B9Z1Z3Y5Y5U0V8T3T1S7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2T6S0S4Q2R2Z1Y0Y4W5X5V1S8S1Q7",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2026-05-04",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2T6S0S4Q2R2Z1Y0Y4W5X5V1S8S1Q7"
   }
 ]
