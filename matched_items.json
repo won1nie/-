@@ -2653,5 +2653,59 @@
     "date": "2018-04-02",
     "matched_keyword": "요양",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1D8V0N4P0L2G1Y8D0B4B4Q1J5F7M9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1G3V0W6S0C5Y1U6K3R2W2S0D6P3K0",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-06-05",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G3V0W6S0C5Y1U6K3R2W2S0D6P3K0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1H1Q0K7D1Z5T1C2N5Z9F3C2G6J1O4",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-07-15",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H1Q0K7D1Z5T1C2N5Z9F3C2G6J1O4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1H6P1K1G1G0T1Q8X4J9D0W4Q9X7S1",
+    "title": "사회복지사업법 일부개정법률안",
+    "org": "의원",
+    "date": "2016-11-10",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1H6P1K1G1G0T1Q8X4J9D0W4Q9X7S1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1F7D0V3T0W9Y1R1P3S4K1I7O5Y4X0",
+    "title": "학교급식법 일부개정법률안",
+    "org": "의원",
+    "date": "2017-03-09",
+    "matched_keyword": "급식",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1F7D0V3T0W9Y1R1P3S4K1I7O5Y4X0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1G0L1B1N2U2S1B4F2R0W0X5W0A0F5",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2010-11-22",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G0L1B1N2U2S1B4F2R0W0X5W0A0F5"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1G1V1B2Q2S0F1X1O1J3J5G9E1O7A4",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-12-20",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1G1V1B2Q2S0F1X1O1J3J5G9E1O7A4"
   }
 ]
