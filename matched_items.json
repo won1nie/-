@@ -2896,5 +2896,59 @@
     "date": "2019-04-02",
     "matched_keyword": "급식",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1X9T0M4G0I2P1M3Z2S3L3T2R8N7Z4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W0R7H0K9C0U7F1U4K4C5P0L4M9Y0X9",
+    "title": "사회복지사업법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2007-11-21",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0R7H0K9C0U7F1U4K4C5P0L4M9Y0X9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W0R8J1N1E1Q2M1W5N4L5C2J5B0K2Y2",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2008-11-12",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0R8J1N1E1Q2M1W5N4L5C2J5B0K2Y2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W0S7Y0K5W1H8N1N7U1X5I4A1W6P3F1",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2007-05-17",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0S7Y0K5W1H8N1N7U1X5I4A1W6P3F1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W0T9S0T6T1V8Y1R8O0Z3A3T1G7S7B8",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2009-06-18",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0T9S0T6T1V8Y1R8O0Z3A3T1G7S7B8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W0W8N0Z8A1P9H1U0C2D4C0F8X2G8Q1",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2008-08-19",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0W8N0Z8A1P9H1U0C2D4C0F8X2G8Q1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W0X8V1T2O1O1A1A7H0D0U0V1Z4R3X5",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2008-12-11",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W0X8V1T2O1O1A1A7H0D0U0V1Z4R3X5"
   }
 ]
