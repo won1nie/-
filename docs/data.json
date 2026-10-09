@@ -2977,5 +2977,32 @@
     "date": "2018-05-04",
     "matched_keyword": "요양",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1J8L0L5S0T4D1L6R0J4Z4G3C5M8C8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1Y5T0P7B2X2A1I1Q2J5E5O1M5O6B3",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-07-22",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y5T0P7B2X2A1I1Q2J5E5O1M5O6B3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1Y9S0S3C2T9E1U7S2I2X0K4C6H7V1",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-03-29",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y9S0S3C2T9E1U7S2I2X0K4C6H7V1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1Z7B0R6Q1M9E1O4J2L9B1A2L7G3W0",
+    "title": "식생활교육지원법 일부개정법률안",
+    "org": "의원",
+    "date": "2017-06-19",
+    "matched_keyword": "식생활",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Z7B0R6Q1M9E1O4J2L9B1A2L7G3W0"
   }
 ]
