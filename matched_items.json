@@ -3004,5 +3004,23 @@
     "date": "2017-06-19",
     "matched_keyword": "식생활",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Z7B0R6Q1M9E1O4J2L9B1A2L7G3W0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1C5W1Z1P2S7G1K6L4I9U2A4A1B7L8",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-11-27",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1C5W1Z1P2S7G1K6L4I9U2A4A1B7L8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X1D0Q1I2T0T1Y1L7F3B4H1G2E1K7I2",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2010-12-01",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1D0Q1I2T0T1Y1L7F3B4H1G2E1K7I2"
   }
 ]
