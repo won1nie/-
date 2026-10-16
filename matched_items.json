@@ -3022,5 +3022,32 @@
     "date": "2010-12-01",
     "matched_keyword": "영유아보육법",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1D0Q1I2T0T1Y1L7F3B4H1G2E1K7I2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1L1J1S0C1J3I1G6D0J7R5H4Z7J0P9",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-10-13",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1L1J1S0C1J3I1G6D0J7R5H4Z7J0P9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1I3B0X2U0O1P1U0N5O8X5L8T9A0W6",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-02-01",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I3B0X2U0O1P1U0N5O8X5L8T9A0W6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W1I3F0Z9K0A3T1H7W4B9A4A5J1W3Y1",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-09-03",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I3F0Z9K0A3T1H7W4B9A4A5J1W3Y1"
   }
 ]
