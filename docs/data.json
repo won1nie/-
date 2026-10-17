@@ -3049,5 +3049,23 @@
     "date": "2013-09-03",
     "matched_keyword": "식품위생",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W1I3F0Z9K0A3T1H7W4B9A4A5J1W3Y1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2V1S1K1H0V3D1C3R4Q6G2F8Q0V2H7",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2021-11-22",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2V1S1K1H0V3D1C3R4Q6G2F8Q0V2H7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V2U5V0T7T0C9C1A4B2Z7A4Y3G2H2F0",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2025-08-11",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2U5V0T7T0C9C1A4B2Z7A4Y3G2H2F0"
   }
 ]
