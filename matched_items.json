@@ -3085,5 +3085,14 @@
     "date": "2015-06-01",
     "matched_keyword": "식생활",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X1B5G0W6L0Y1K1T8F4L9M5Q8Q7H1D3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_Y1Y0C0X4M0V2U1I8X0H2A1C0T6K8H7",
+    "title": "학교무상급식기금법안",
+    "org": "의원",
+    "date": "2010-04-02",
+    "matched_keyword": "급식",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y0C0X4M0V2U1I8X0H2A1C0T6K8H7"
   }
 ]
