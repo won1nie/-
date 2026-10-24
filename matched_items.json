@@ -3094,5 +3094,77 @@
     "date": "2010-04-02",
     "matched_keyword": "급식",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Y1Y0C0X4M0V2U1I8X0H2A1C0T6K8H7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1F9W1U2T3Z1K1F5B5M5U4H2F5L3J3",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-12-31",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1F9W1U2T3Z1K1F5B5M5U4H2F5L3J3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1D1A1N0L2J6Z1I4W2U0Q0Z1E7Y6I8",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-10-26",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1D1A1N0L2J6Z1I4W2U0Q0Z1E7Y6I8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1D1F1T2K0R9P1U7A0S7U1Q1D8N3Z0",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-12-09",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1D1F1T2K0R9P1U7A0S7U1Q1D8N3Z0"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1E7V0W1B2M4B1H1M1Q9L4X1W1O2N6",
+    "title": "사회복지사업법 일부개정법률안",
+    "org": "의원",
+    "date": "2017-01-24",
+    "matched_keyword": "사회복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1E7V0W1B2M4B1H1M1Q9L4X1W1O2N6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1E7Z1B1H0O9I1P1H0S1I1L1T8L2G9",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2017-11-09",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1E7Z1B1H0O9I1P1H0S1I1L1T8L2G9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1E9B0O2V1D8J1U7N1T9R2X2Q3E1A7",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-02-18",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1E9B0O2V1D8J1U7N1T9R2X2Q3E1A7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1F0Z1Y1E0X3N1T1E3K1A4L6M1X6S2",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2010-11-03",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1F0Z1Y1E0X3N1T1E3K1A4L6M1X6S2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1F5Q1R2B0B2A2N1P2H9U2X2N8O1P2",
+    "title": "영유아보육법 일부개정법률안(대안)",
+    "org": "위원장",
+    "date": "2016-01-08",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1F5Q1R2B0B2A2N1P2H9U2X2N8O1P2"
   }
 ]
