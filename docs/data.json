@@ -3175,5 +3175,50 @@
     "date": "2022-06-15",
     "matched_keyword": "노인복지",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2D2U0S6Z1S5P1G0Y5N4T4Y9D6Z3C7"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1X5K1Z2F1M1F1H6F1A5F2V4R2S5Q9",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-12-11",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X5K1Z2F1M1F1H6F1A5F2V4R2S5Q9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1X5X0N3F0H4E0E9J4Z9Z1H3G1V1Q5",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2015-03-04",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X5X0N3F0H4E0E9J4Z9Z1H3G1V1Q5"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1X9A0E6Y1S2M1X5M0Y7L2T4N4R3Q4",
+    "title": "아이돌봄 지원법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-06-12",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X9A0E6Y1S2M1X5M0Y7L2T4N4R3Q4"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1X9J0Z6M1U4P1I7K2A9J3A6C5X8V2",
+    "title": "학교급식법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-06-14",
+    "matched_keyword": "급식",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1X9J0Z6M1U4P1I7K2A9J3A6C5X8V2"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1Y1Y0S3G3C1X1L4C0W4U2K5W3V4F9",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2011-03-31",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Y1Y0S3G3C1X1L4C0W4U2K5W3V4F9"
   }
 ]
