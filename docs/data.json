@@ -3220,5 +3220,50 @@
     "date": "2011-03-31",
     "matched_keyword": "식품위생",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1Y1Y0S3G3C1X1L4C0W4U2K5W3V4F9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1W3E0V2Z1E9K1E5S4Q9S3T2Z7J5U1",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-02-19",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1W3E0V2Z1E9K1E5S4Q9S3T2Z7J5U1"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1T3L1X0I0G4T1F1G3F9A2T8I8X2D5",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-10-04",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1T3L1X0I0G4T1F1G3F9A2T8I8X2D5"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1T9B0Q3C1T8U1R5S5L0D0X5C4T9B8",
+    "title": "노인복지법 일부개정법률안",
+    "org": "의원",
+    "date": "2019-03-18",
+    "matched_keyword": "노인복지",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1T9B0Q3C1T8U1R5S5L0D0X5C4T9B8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1V3L0O2M2G1B1K3P1B7M3C2U8J0N3",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-02-21",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1V3L0O2M2G1B1K3P1B7M3C2U8J0N3"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_V1V3V1J1Y0T6U1M2H0T6T0R7F2V4T7",
+    "title": "영유아보육법 일부개정법률안",
+    "org": "의원",
+    "date": "2013-11-06",
+    "matched_keyword": "영유아보육법",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1V3V1J1Y0T6U1M2H0T6T0R7F2V4T7"
   }
 ]
