@@ -3301,5 +3301,14 @@
     "date": "2015-01-23",
     "matched_keyword": "사회복지",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V1K5G0W1N2E3Q1E3P5O2L5O6O6Z8A9"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_X2X6W0X7V2V2D1C3C3A6B1Z6A2I0G1",
+    "title": "식품위생법 일부개정법률안",
+    "org": "의원",
+    "date": "2026-10-28",
+    "matched_keyword": "식품위생",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_X2X6W0X7V2V2D1C3C3A6B1Z6A2I0G1"
   }
 ]
