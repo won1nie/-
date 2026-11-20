@@ -3337,5 +3337,23 @@
     "date": "2025-02-27",
     "matched_keyword": "영유아보육법",
     "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_U2V5U0U1S1T0R1Z7A3Y6Y3X1Y6W9L6"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W2P2L1V2M1Z5B1I8G0T8B0E2V9Z2Z8",
+    "title": "아이돌봄 지원법 일부개정법률안",
+    "org": "의원",
+    "date": "2022-12-20",
+    "matched_keyword": "돌봄",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2P2L1V2M1Z5B1I8G0T8B0E2V9Z2Z8"
+  },
+  {
+    "source": "국회 발의 법률안",
+    "id": "assembly-PRC_W2O1T1R1L0G1G1D0O1G5P4V7V9W1A1",
+    "title": "노인장기요양보험법 일부개정법률안",
+    "org": "의원",
+    "date": "2021-11-03",
+    "matched_keyword": "요양",
+    "link": "https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_W2O1T1R1L0G1G1D0O1G5P4V7V9W1A1"
   }
 ]
